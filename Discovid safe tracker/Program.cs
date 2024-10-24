@@ -6,7 +6,7 @@
         bool[] toegelaten = new bool[100];
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hallo, Wereld");
         }
     }
 }
